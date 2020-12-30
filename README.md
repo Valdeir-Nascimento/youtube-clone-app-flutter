@@ -1,7 +1,7 @@
 # Youtube Clone
 
 ## Descrição do Projeto
-Consumindo API do Youtube para fazer a busca de videos.
+Consumindo API do Youtube para fazer busca de videos.
 
 ## Features
 - Youtube API
